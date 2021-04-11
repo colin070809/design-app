@@ -2,6 +2,7 @@ import streamlit as st
 
 st.title('Gift Help')
 st.title('Made by Colin Murphy')
+st.subheader('Maddox , Everett , Henry ')
 
 interest_dict = {}
 interest_dict['Origami'] = [
@@ -92,13 +93,18 @@ interest_dict['Travel'] = [
     ]
 
 st.sidebar.header("Interests")
-product = st.sidebar.selectbox('Choose a Interest', list(interest_dict.keys()))
-items = interest_dict[product]
-x = len(items)
-
-for i in range (x):
+list = list(interest_dict.keys())
+list.insert(0,'')
+product = st.sidebar.selectbox('Choose a Interest', list)
+if product == '':
     st.markdown('---')
-    st.subheader(items[i][0])
-    st.image(items[i][1], width=250)
-    link = '[Link]('+ (items[i][2]) + ')'
-    st.markdown(link, unsafe_allow_html=True)
+else:
+    items = interest_dict[product]
+    x = len(items)
+
+    for i in range (x):
+        st.markdown('---')
+        st.subheader(items[i][0])
+        st.image(items[i][1], width=250)
+        link = '[Link]('+ (items[i][2]) + ')'
+        st.markdown(link, unsafe_allow_html=True)
