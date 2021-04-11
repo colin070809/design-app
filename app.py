@@ -3,7 +3,7 @@ import streamlit as st
 st.title('Gift Help')
 st.title('Made by Colin Murphy')
 st.subheader('Maddox , Everett , Henry ')
-
+st.text('Gift Help is a website to help find that perfect gift.')
 interest_dict = {}
 interest_dict['Origami'] = [
     [
@@ -59,6 +59,16 @@ interest_dict['Sports'] = [
     'org9.jpg',
     'https://www.amazon.com/Franklin-Sports-Electronic-Baseball-Pitching/dp/B0007DHT8Q/ref=sr_1_3?dchild=1&keywords=sports&qid=1618082498&sr=8-3'
     ]
+
+    ['The Sports Gene',
+    'org21.jpg',
+    'https://www.amazon.com/Sports-Gene-Extraordinary-Athletic-Performance-ebook/dp/B00AEDDQKE/ref=sr_1_17?dchild=1&keywords=sports&qid=1618147181&sr=8-17'
+    ]
+
+    ['Spalding Basketball',
+    'org22.jpg',
+    'https://www.amazon.com/Spalding-74796-TF-500-Basketball/dp/B00F9KVFSM/ref=sr_1_1_sspa?dchild=1&keywords=basketball&qid=1618147325&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFTSEtZWlI1SkZRU00mZW5jcnlwdGVkSWQ9QTA4NjA4OTU4VTlGTEdUVDUxTTUmZW5jcnlwdGVkQWRJZD1BMDc3ODEzMzEzVlQzNEhKTUk0MUMmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl'
+    ]
     ]
 
 interest_dict['Fishing'] = [
@@ -72,7 +82,23 @@ interest_dict['Fishing'] = [
     'org12.jpg',
     'https://www.amazon.com/XTON-Including-Topwater-Freshwater-Saltwater/dp/B08P1TLR3T/ref=sr_1_28?dchild=1&keywords=fishing&qid=1618082722&sr=8-28'
     ]
+
+    ['Fishing Rod',
+    'org18.jpg',
+    'https://www.amazon.com/PLUSINNO-Telescopic-Spinning-Saltwater-Freshwater/dp/B08Q7GBJTD/ref=sr_1_25?dchild=1&keywords=fishing&qid=1618146738&sr=8-25'
     ]
+
+    ['The Total Fishing Manual',
+    'org19.jpg',
+    'https://www.amazon.com/Total-Fishing-Manual-Paperback-Essential/dp/1681882639/ref=sr_1_1_sspa?dchild=1&keywords=fishing+book&qid=1618146891&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUTNXSUdTUjI1RkhBJmVuY3J5cHRlZElkPUEwOTc4MzI1OVVYUVJEMzVGNllTJmVuY3J5cHRlZEFkSWQ9QTA2OTI0MzUyRTJEWlJTSEo0UlhCJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=='
+    ]
+
+    ['How to Think Like a Fish',
+    'org20.jpg',
+    'https://www.amazon.com/How-Think-Like-Fish-Lifetime-ebook/dp/B07H2BQ741/ref=sr_1_8?dchild=1&keywords=fishing+book&qid=1618147023&sr=8-8'
+    ]
+    ]
+
 interest_dict['Travel'] = [
 
     [
@@ -90,7 +116,19 @@ interest_dict['Travel'] = [
     'org15.jpg',
     'https://www.amazon.com/Toiletry-OMYSTYLE-Portable-Waterproof-Organizer/dp/B07Y9F7WXD/ref=sr_1_56_sspa?dchild=1&keywords=travel&qid=1618083136&sr=8-56-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFGRUZCWERDNlFKTE4mZW5jcnlwdGVkSWQ9QTAxMTE4MzgxN0xON1lTNzdXVzkyJmVuY3J5cHRlZEFkSWQ9QTA4MTkwNTAzSVRSMlgzNDc4NlAwJndpZGdldE5hbWU9c3BfYnRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=='
     ]
+
+    ['Softside Luggage',
+    'org16.jpg',
+    'https://www.amazon.com/SwissGear-Sion-24-Dark-Grey/dp/B014TDH23G/ref=sr_1_2_sspa?dchild=1&keywords=travel+suitcase&qid=1618146248&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUE0zMDZBT005R0xPJmVuY3J5cHRlZElkPUEwNTQ3OTI0MVkxTkdBV1I2UUdDRCZlbmNyeXB0ZWRBZElkPUEwMTU4NjI0M0NIVFZCRjk5NjdNSyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU='
     ]
+
+    ['Travel Pillow',
+    'org17.jpg',
+    'https://www.amazon.com/DYD-Airplane-Breathable-Washable-Ergonomic/dp/B07P8CDZ1Z/ref=sr_1_7?dchild=1&keywords=airplane+pillow&qid=1618146464&sr=8-7'
+    ]
+    ]
+
+
 
 st.sidebar.header("Interests")
 list = list(interest_dict.keys())

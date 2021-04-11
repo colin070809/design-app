@@ -88,7 +88,7 @@ interest_dict['Travel'] = [
     ]
 
 
-
+print(type(interest_dict)
 item_selected = 'Travel'
 
 items = interest_dict[item_selected]
