@@ -58,12 +58,12 @@ interest_dict['Sports'] = [
     ['Franklin Sports MLB Electronic Baseball Pitching Machine',
     'org9.jpg',
     'https://www.amazon.com/Franklin-Sports-Electronic-Baseball-Pitching/dp/B0007DHT8Q/ref=sr_1_3?dchild=1&keywords=sports&qid=1618082498&sr=8-3'
-    ]
+    ],
 
     ['The Sports Gene',
     'org21.jpg',
-    'https://www.amazon.com/Sports-Gene-Extraordinary-Athletic-Performance-ebook/dp/B00AEDDQKE/ref=sr_1_17?dchild=1&keywords=sports&qid=1618147181&sr=8-17'
-    ]
+    'https://www.amazon.com/Sports-Gene-Extraordinary-Athletic-Performance-ebook/dp/B00AEDDQKE/ref=sr_1_17?dchild=1&keywords=sports&qid=1618147181&sr=8-17',
+    ],
 
     ['Spalding Basketball',
     'org22.jpg',
@@ -81,17 +81,17 @@ interest_dict['Fishing'] = [
     ['Fishing Lures',
     'org12.jpg',
     'https://www.amazon.com/XTON-Including-Topwater-Freshwater-Saltwater/dp/B08P1TLR3T/ref=sr_1_28?dchild=1&keywords=fishing&qid=1618082722&sr=8-28'
-    ]
+    ],
 
     ['Fishing Rod',
     'org18.jpg',
     'https://www.amazon.com/PLUSINNO-Telescopic-Spinning-Saltwater-Freshwater/dp/B08Q7GBJTD/ref=sr_1_25?dchild=1&keywords=fishing&qid=1618146738&sr=8-25'
-    ]
+    ],
 
     ['The Total Fishing Manual',
     'org19.jpg',
     'https://www.amazon.com/Total-Fishing-Manual-Paperback-Essential/dp/1681882639/ref=sr_1_1_sspa?dchild=1&keywords=fishing+book&qid=1618146891&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUTNXSUdTUjI1RkhBJmVuY3J5cHRlZElkPUEwOTc4MzI1OVVYUVJEMzVGNllTJmVuY3J5cHRlZEFkSWQ9QTA2OTI0MzUyRTJEWlJTSEo0UlhCJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=='
-    ]
+    ],
 
     ['How to Think Like a Fish',
     'org20.jpg',
@@ -115,12 +115,12 @@ interest_dict['Travel'] = [
     ['Toiletry Bag',
     'org15.jpg',
     'https://www.amazon.com/Toiletry-OMYSTYLE-Portable-Waterproof-Organizer/dp/B07Y9F7WXD/ref=sr_1_56_sspa?dchild=1&keywords=travel&qid=1618083136&sr=8-56-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFGRUZCWERDNlFKTE4mZW5jcnlwdGVkSWQ9QTAxMTE4MzgxN0xON1lTNzdXVzkyJmVuY3J5cHRlZEFkSWQ9QTA4MTkwNTAzSVRSMlgzNDc4NlAwJndpZGdldE5hbWU9c3BfYnRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=='
-    ]
+    ],
 
     ['Softside Luggage',
     'org16.jpg',
     'https://www.amazon.com/SwissGear-Sion-24-Dark-Grey/dp/B014TDH23G/ref=sr_1_2_sspa?dchild=1&keywords=travel+suitcase&qid=1618146248&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUE0zMDZBT005R0xPJmVuY3J5cHRlZElkPUEwNTQ3OTI0MVkxTkdBV1I2UUdDRCZlbmNyeXB0ZWRBZElkPUEwMTU4NjI0M0NIVFZCRjk5NjdNSyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU='
-    ]
+    ],
 
     ['Travel Pillow',
     'org17.jpg',
