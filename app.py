@@ -21,8 +21,21 @@ interest_dict['Origami'] = [
     ['The Complete Book of Origami',
     'org3.jpg',
     'https://www.amazon.com/Complete-Book-Origami-Step-Instructions/dp/0486258378/ref=sr_1_18_sspa?dchild=1&keywords=origami&qid=1618081325&sr=8-18-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEySTVMNTJPVVU0SVc4JmVuY3J5cHRlZElkPUEwMzE5NDE1Mkc4MjRNNllBTUdXRyZlbmNyeXB0ZWRBZElkPUEwOTM2MTI5MVhOVFVaTDkwR05DMiZ3aWRnZXROYW1lPXNwX2F0Zl9uZXh0JmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ'
+    ],
+
+    ['Origami Paper',
+    'org23.jpg,'
+    'https://www.amazon.com/Origami-Paper-Oragami-Squares-Available/dp/B07QGL8RRZ/ref=sr_1_10?dchild=1&keywords=origami&qid=1618190742&sr=8-10'
+    ],
+
+    ['History of Origami',
+    'org24.jpg,'
+    'https://www.amazon.com/Notes-History-Origami-John-Smith/dp/1495215008/ref=sr_1_2?dchild=1&keywords=origami+history&qid=1618191715&sr=8-2'
     ]
     ]
+
+
+
 
 interest_dict['Gardening'] = [
     [
@@ -40,8 +53,20 @@ interest_dict['Gardening'] = [
     ['Gardening for Kids',
     'org6.jpg',
     'https://www.amazon.com/Gardening-Kids-Learn-Messy-Projects-ebook/dp/B08NWDKQNJ/ref=sr_1_1_sspa?dchild=1&keywords=gardening&qid=1618081990&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE0Vk44VVlESlpHQTgmZW5jcnlwdGVkSWQ9QTA1MzIxNzlXREpZWDVBNDQ3U1YmZW5jcnlwdGVkQWRJZD1BMTA0ODA5NDM2WDFOWDBXUTIzTkkmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl'
+    ],
+
+    ['Garden Spade',
+    'org25.jpg',
+    'https://www.amazon.com/Fiskars-Steel-D-handle-Square-Garden/dp/B000BX4SLS/ref=sr_1_37?dchild=1&keywords=gardening&qid=1618191887&sr=8-37'
+    ],
+
+    ['Gardening Shears',
+    'org26.jpg',
+    'https://www.amazon.com/sealaye-Gardening-Professional-Effortless-Vegetables/dp/B08YNXV5NN/ref=sr_1_54?dchild=1&keywords=gardening&qid=1618192055&sr=8-54'
     ]
     ]
+
+
 
 interest_dict['Sports'] = [
     [
@@ -70,6 +95,7 @@ interest_dict['Sports'] = [
     'https://www.amazon.com/Spalding-74796-TF-500-Basketball/dp/B00F9KVFSM/ref=sr_1_1_sspa?dchild=1&keywords=basketball&qid=1618147325&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFTSEtZWlI1SkZRU00mZW5jcnlwdGVkSWQ9QTA4NjA4OTU4VTlGTEdUVDUxTTUmZW5jcnlwdGVkQWRJZD1BMDc3ODEzMzEzVlQzNEhKTUk0MUMmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl'
     ]
     ]
+
 
 interest_dict['Fishing'] = [
 
